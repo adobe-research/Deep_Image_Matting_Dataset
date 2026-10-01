@@ -9,7 +9,7 @@ This repository provides the foregrounds and alphas for the Deep Image Matting d
 [[Project page]](https://sites.google.com/view/deepimagematting) 
 
 ## Download dataset
-The dataset can be downloaded [here](https://github.com/bprice_adobe/Deep_Image_Matting_Dataset/releases/tag/v1.0).
+The dataset can be downloaded [here](https://github.com/adobe-research/Deep_Image_Matting_Dataset/releases/tag/v1.0).
 
 
 ## Citation
